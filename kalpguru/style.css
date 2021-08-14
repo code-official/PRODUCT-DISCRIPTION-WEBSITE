@@ -1,0 +1,73 @@
+/* .list-group .list-group-item {
+    padding: 1.5rem 1rem !important;
+} */
+#more {display: none;}
+
+.row .carousel-item{
+    height: 32rem;
+    position: relative;
+}
+.row .banner00-desc h1{
+    position: relative;
+    float:right;
+    top: -50%;
+    right: 28%;
+}
+.row .banner00-desc button{
+    position: relative;
+    float:right;
+    top: -33%;
+    right: 18%;
+}
+.row .banner0-desc h3{
+    position: relative;
+    top: -49%;
+    left: 39%;
+    color: white;
+}
+.row .banner0-desc span{
+    position: relative;
+    left: -13% !important;
+}
+.row .banner1-desc button {
+    position:relative;
+    top: -26%;
+    left: 0%;
+    width: 85px;
+    height: 40px;
+    color: white
+
+}
+.row .banner1-desc{
+    position: relative;
+    top: -29%;
+    left: 10%;
+    color: white;
+}
+.row .banner2-desc button {
+    position:relative;
+    top: -26%;
+    left: 0%;
+    width: 85px;
+    height: 40px;
+    color: white
+}
+.row .banner2-desc{
+    position: relative;
+    top: -29%;
+    left: 10%;
+    color: white;
+}
+.row .banner3-desc h1{
+    position: relative;
+    top: -49%;
+    left: 5%;
+    text-align: center;
+    size: 90px;
+}
+.row .banner3-desc button {
+    position: relative;
+    top: -47%;
+    float: right;
+    left: -45% !important;
+}
